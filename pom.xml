@@ -5,6 +5,8 @@
     <artifactId>hello</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
+    <sonar.host.url>http://http://18.206.252.153:9000/</sonar.host.url>
+    <sonar.login>0363fa06485119b75311f17f5f03afbf87fa426d</sonar.login>
     <name>hello</name>
     <url>https://github.com/boxfuse/boxfuse-sample-java-war-hello</url>
     <dependencies>
